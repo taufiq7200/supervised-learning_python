@@ -1,2 +1,1 @@
-# supervised-learning_python
-Prediction using supervised learning
+Here prediction using supervised machine learning algorithm. 
